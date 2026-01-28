@@ -20,3 +20,14 @@
   margin-top: 0px;
   margin-bottom: 8px;
 }
+.delete-button{
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  
+}
+.btn{
+  margin-left: 10px;
+  border: none;
+  background-color: transparent;
+}
